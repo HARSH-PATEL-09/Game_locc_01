@@ -1,2 +1,4 @@
 # Game_locc_01
-tip-tap-teo
+tic-tac-toe
+<br>
+rock-paper-scissors
